@@ -1,4 +1,4 @@
-# Todoey App
+# Todoey
 
 A simple Flutter todos app with Provider package.
 
